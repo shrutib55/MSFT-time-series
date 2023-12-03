@@ -3,7 +3,11 @@
 
 ## To run this code, the data files are given for the stock data dataset. The link is already included in the code, so there should be no need to input it yourself for it to run.
 
+## Please only run the code for the neural network (not the data preprocessing - that if for viewsing but the output from that is already a part of the neural network code) 
+
 ## The following libraries are necessary to run the code (in code form)
+
+### For Data Processing
 
 (#pip install regex==2022.3.2)
 
@@ -38,6 +42,10 @@ from nltk.tokenize import RegexpTokenizer
 nltk.download('stopwords')
 
 nltk.download('punkt')
+
+### For Neural Network
+
+import pandas as pd
 
 import numpy as np
 
