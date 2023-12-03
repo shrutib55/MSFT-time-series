@@ -64,4 +64,4 @@ from scipy import stats
 
 GitHub, github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Planar%20data%20classification%20with%20one%20hidden%20layer%20v3.py. 
 
-  - Used this to help gain an understanding of how to solve forward and backward propagation
+  - Used this as a foundation of how to solve forward and backward propagation
