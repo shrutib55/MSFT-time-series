@@ -5,10 +5,10 @@
 
 ## The following libraries are necessary to run the code (in code form)
 
-# pip install regex==2022.3.2
-# pip install textblob
+(#pip install regex==2022.3.2)
+(#pip install textblob)
 
-# pip install dateparser==1.1.1
+(#pip install dateparser==1.1.1)
 
 import pandas as pd
 
